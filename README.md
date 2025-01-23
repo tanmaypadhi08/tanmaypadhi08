@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning C++
 
-- 📫 How to reach me  - https://www.linkedin.com/in/tanmay-padhi-11a26a176
+- 📫 How to reach me  - (https://www.linkedin.com/in/tanmaytp/)
 
 <!---
 tanmaypadhi08/tanmaypadhi08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
